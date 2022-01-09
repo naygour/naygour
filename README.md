@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naygour
+- 👋 Hi, I’m Bruwaert Théo (@naygour)
 - 👀 I’m interested on development front-end and new technologie 
 - 🌱 I’m currently learning HTML/CSS/JAVA/JS//PHP SYPMHONY/PYTHON/REACT
 - 💞️ I’m looking to collaborate on ambitious projects
